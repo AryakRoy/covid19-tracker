@@ -1,0 +1,40 @@
+.InfoBox{
+    flex:1;
+    cursor: pointer;
+}
+.InfoBox--selected--recovered{
+    border-bottom: rgba(6,204,52,0.5) 10px solid;
+}
+.InfoBox--selected--cases{
+    border-bottom: rgba(204,6,52,0.5) 10px solid;
+}
+.InfoBox--selected--deaths{
+    border-bottom: rgba(204,52,6,0.5) 10px solid;
+}
+.InfoBox:not(:last-child){
+    margin-right: 10px;
+}
+.InfoBox__cases{
+    color:#cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+.InfoBox__recovered{
+    color:#7dd71d;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+.InfoBox__deaths{
+    color:#fb4443;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+.InfoBox__total{
+    color:#6c757d;
+    font-weight: 700;
+    font-size: 0.8rem;
+    margin-top: 5px;
+}
