@@ -45,3 +45,21 @@ body{
     flex-direction: column;
   }
 }
+@media (max-width:480px){
+  .app__header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .app__header h1{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  .app__stats{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}

@@ -38,3 +38,9 @@
     font-size: 0.8rem;
     margin-top: 5px;
 }
+@media (max-width:480px){
+    .InfoBox{
+        width:100%;
+        margin-bottom: 20px;
+    }
+}
