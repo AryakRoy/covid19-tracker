@@ -1,4 +1,6 @@
-# Covid19 Tracker <img src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif" width="50px">
+![Covid19 Tracker Banner](/src/assets/banner.png)
+
+# Covid19 Tracker <img src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif" width="80px">
 
 > A Covid19 Tracker Dashboard - ReactJS Web Application
 
@@ -12,6 +14,8 @@ Check Out the Project Right here 👉🏼
 [Covid19 Tracker](https://covid-19-tracker-7d212.firebaseapp.com/)
 
 ## Development Stack
+
+![TechStack Banner](/src/assets/techstack.png)
 
 - [React](https://reactjs.org/)
 - [Material - UI](https://material-ui.com/)
