@@ -1,4 +1,4 @@
-# Covid19 Tracker <img src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif" width="30px">
+# Covid19 Tracker <img src="https://i.pinimg.com/originals/c6/28/87/c62887db7cea40ab5753171c86e456ef.gif" width="50px">
 
 > A Covid19 Tracker Dashboard - ReactJS Web Application
 
